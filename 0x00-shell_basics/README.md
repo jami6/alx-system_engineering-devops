@@ -15,4 +15,6 @@
 14. Script that copies all html files from current directory to parent directory without repeating
 15. Script that moves all files beginning with an uppercase letter
 16. Delete all files in current directory ending with ~
-17. Script to create multiple directories  
+17. Script to create multiple directories
+18. List all files and directories of the curent directory
+19. Create a magic file that can be used to detect data files  
