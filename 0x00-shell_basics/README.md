@@ -8,4 +8,11 @@
 7. Script that moves the file betty
 8. Script that deletes the file betty
 9. script that deletes a directory
-10. Script that changes working directory to the previous one 
+10. Script that changes working directory to the previous one
+11. Script to list all files in current, working directory and boot folder
+12. Script that prints the type of a file named iamafile
+13. Create a symbolic link
+14. Script that copies all html files from current directory to parent directory without repeating
+15. Script that moves all files beginning with an uppercase letter
+16. Delete all files in current directory ending with ~
+17. Script to create multiple directories  
